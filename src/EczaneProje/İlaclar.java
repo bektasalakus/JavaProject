@@ -10,6 +10,8 @@ public class İlaclar {
     static Map<String, String> ilaclar = new HashMap<>();
 
 
+
+
     public static void İlacMenu() throws InterruptedException {
         String secim3 = "";
         do {
